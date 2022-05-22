@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasbarrettofontes (35)
+- 👋 Hi, I’m @lucasbarrettofontes (36)
 - 👀 I’m interested in automated tests and cloud solutions.
 - 🌱 I’m currently learning gitLab CI, GOCD and Litlle bit terraform.
 - 💞️ I’m looking to collaborate on QA community and help people.
